@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Aml Wajeh Abuzeid
 
 <div align="center">
-  <img src="." alt="Data Analytics Banner" width="700" height="auto">
+  <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/DataAnalystPhoto.jpg" alt="Data Analytics Banner" width="100%" height="auto">
 </div>
 
 ## 🌟 Data Analyst | Business Intelligence Specialist
@@ -39,7 +39,7 @@ I'm a passionate Data Analyst with a robust background in transforming complex d
 - Business Intelligence
 - Strategic Reporting
 
-## 🌈 Professional Highlights
+## 🔥 Professional Highlights
 
 ### 💼 Work Experience
 1. **Accountant** | Mohamed Sadaka Office *(Sep 2023 – Feb 2024)*
