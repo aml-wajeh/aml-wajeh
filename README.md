@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Aml Wajeh Abuzeid
 
 <div align="center">
-  <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/WhatsApp%20Image%202024-12-06%20at%2013.44.05_09cbed73.jpg" alt="Data Analytics Banner" width="700" height="auto">
+  <img src="." alt="Data Analytics Banner" width="700" height="auto">
 </div>
 
 ## 🌟 Data Analyst | Business Intelligence Specialist
