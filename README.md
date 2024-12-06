@@ -90,20 +90,13 @@ Automated data updates for market trend insights
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </div>
 
-## 🌐 Let's Connect!
+## 🌐 Portfolio & Contact
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aml-wajeh-b40990183">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aml.wajeh24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/aml-wajeh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
+📂 Portfolio:
+NovyPro | Maven Analytics | Tableau Public
+💌 Email: aml.wajeh24@gmail.com
+🌐 LinkedIn: Aml Wajeh
+💻 GitHub: aml-wajeh
 ---
 
 <div align="center">
