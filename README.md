@@ -4,7 +4,7 @@
   <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/DataAnalystPhoto.jpg" alt="Data Analytics Banner" width="100%" height="auto">
 </div>
 
-## 🌟 Hi there! 👋 I'm Aml Wajeh Abuzeid, a passionate Data Analyst and Business Intelligence Specialist.
+## 🌟A passionate Data Analyst and Business Intelligence Specialist.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -17,11 +17,12 @@
 Hi there! 👋 I’m Aml, and I’m passionate about data analytics. I love diving into datasets, uncovering insights, and turning raw numbers into meaningful stories. Whether it’s wrangling data, creating visualizations, or building predictive models, I’m all in! 
 Beyond my professional pursuits, I am an avid chess player, which complements my analytical approach to data analysis. I thrive in dynamic environments and am always eager to tackle and learn from new challenges.
 
-**Education:** Bachelor's in Business Administration (English Section), Damanhur University, Class of 2020.
+**Education:** Bachelor's degree in Business Administration, Damanhur University, Class of 2020.
+
 **Certifications & Training:**
-**Digital Egypt Youth (DEY):** Mastered SQL, Python, R, Tableau, Power BI, and freelancing skills through a comprehensive 120-hour training.
-**Digital Egypt Pioneers Initiative (DEPI):** Completed a six-month intensive program in data analysis and freelancing.
-**Alex the Analyst Bootcamp:** Practical training in SQL, Tableau, Power BI, and Python with a focus on real-world applications.
+  - **Digital Egypt Youth (DEY):** Mastered SQL, Python, R, Tableau, Power BI, and freelancing skills through a comprehensive 120-hour training.
+  - **Digital Egypt Pioneers Initiative (DEPI):** Completed a six-month intensive program in data analysis and freelancing.
+  - **Alex the Analyst Bootcamp:** Practical training in SQL, Tableau, Power BI, and Python with a focus on real-world applications.
 
 ## 💻 Technical Toolkit
 
@@ -41,41 +42,40 @@ Beyond my professional pursuits, I am an avid chess player, which complements my
 - Business Intelligence
 - Strategic Reporting
 
-## 🔥 Professional Highlights
 
-### 💼 Work Experience
-1. **Accountant** | Accounting Office [Mr. Mohamed Sadaka Office] *(Sep 2023 – Feb 2024)*
-   - Processed and maintained accurate financial records for multiple client accounts, ensuring compliance with accounting standards.
-   - Performed monthly bank reconciliations and generated detailed financial reports for client review.
-   - Managed daily accounting operations including accounts payable, accounts receivable, and general ledger entries.
-   - Assisted in preparing tax documents and maintaining organized documentation systems.
+### 💼 Professional Experience
+- Developed data-driven solutions across industries, from tourism operations to accounting.
+- Hands-on experience in project management, financial reporting, and customer service optimization
 
-2. **Assistant Director & Tour Operations Specialist** | Al-Barq Tour Company *(Apr 2022 – Jul 2023)*
-   - Coordinated domestic and international tour operations while assisting in daily management decisions and strategic planning.
-   - Handled customer inquiries and bookings for local and international destinations, ensuring high satisfaction rates.
-   - Managed relationships with hotels, transportation providers, and travel partners to secure competitive rates and quality services.
-   - Assisted in team supervision and training while implementing service improvement initiatives.
-  
-3. **Accountant / Data Entry** || State Council of Egypt *(Mar 2021 - Mar 2022)*
-   - Performed public service duties with an excellent grade.
-
-4. **Director & Tourism Operations Specialist** || Moltaqa Al-Alam Tour Company *(Jan 2017 - Feb 2021)* 
-   - Directed company operations while personally managing domestic and international tour bookings to ensure service excellence.
-   - Led strategic planning and daily operations management while maintaining direct oversight of customer service quality.
-   - Established and maintained partnerships with hotels, airlines, and travel vendors to optimize service offerings and costs.
-   - Supervised team performance while actively handling tour arrangements and client communications for local and international travel.
 
 ## 🚀 Featured Projects
 
 <div align="center">
+  
+1- 📊**HR Analysis:**
+**Tools:** SQL, Python
+Analyzed HR metrics to optimize employee engagement and retention strategies.
+  
+2- 🚲**Bike Sales Analysis:**
+**Tool:** Excel
+Conducted sales analysis to enhance marketing and sales strategies.
 
-| Project | Technologies | Key Insights |
-|---------|--------------|--------------|
-| 📊 HR Analysis | SQL, Python | Employee performance optimization |
-| 🚲 Bike Sales | Excel | Market trend identification |
-| 🏪 Supermarket Sales | R | Customer behavior mapping |
-| 🏦 Bank Customer Segmentation  | Python | Targeted marketing strategies |
-| 
+3- 🏪**Supermarket Sales Trends:**
+**Tool:** R
+Uncovered consumer trends to drive sales performance improvement.
+
+4- 🏦**Bank Customer Segmentation:**
+**Tool:** Python
+Developed models to optimize targeted marketing efforts.
+
+5- **Manufacturing Downtime Analysis:**
+**Tool:** Excel
+Identified operational inefficiencies and recommended process improvements.
+
+6- **Movie Trends Automation:**
+**Tool:** Python
+Automated data updates for market trend insights
+
 
 </div>
 
