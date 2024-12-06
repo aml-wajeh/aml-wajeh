@@ -1,89 +1,99 @@
 # 👋 Hello World! I'm Aml Wajeh Abuzeid
 
-![Data Analytics Banner](https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
+<div align="center">
+  <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/WhatsApp%20Image%202024-12-06%20at%2013.44.05_09cbed73.jpg" alt="Data Analytics Banner" width="700" height="auto">
+</div>
 
 ## 🌟 Data Analyst | Business Intelligence Specialist
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&color=2C95FF&center=true&vCenter=true&lines=Data+Analyst+Specialist;Business+Intelligence+Expert;Problem+Solver;Insights+Creator" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=2C95FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Problem+Solver;Business+Intelligence+Expert;Transforming+Data+into+Insights" alt="Typing SVG" />
+  </a>
 </div>
 
-## 📌 Professional Profile
+## 🚀 About Me
 
-### About Me
-- 📊 Results-oriented Data Analyst with expertise in transforming complex data into strategic insights
-- 🎓 Bachelor's in Business Administration from Damanhur University
-- 💡 Specializing in data-driven decision-making using advanced analytics tools
+I'm a passionate Data Analyst with a robust background in transforming complex data into actionable business strategies. My expertise spans across various analytical tools and programming languages, enabling me to deliver comprehensive insights that drive organizational success.
 
-## 🛠 Technical Skills
+### 🎓 Education & Credentials
+- **Bachelor's in Business Administration** | Damanhur University, Class of 2020
+- **Data Analyst Specialist** | Digital Egypt Pioneers Initiative (Jun 2024 – Nov 2024)
+- **Data Analytics Bootcamp** | Alex the Analyst (Mar 2024 – May 2024)
 
-### Languages & Programming
-![Skills](https://skillicons.dev/icons?i=python,r,sql,git,github,vscode)
+## 💻 Technical Toolkit
 
-### Data Analysis & Visualization Tools
-- 📈 Microsoft Excel
-- 🔍 Power BI
-- 📊 Tableau
-- 📉 Statistical Analysis
-- 🤖 Predictive Modeling
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 🎓 Professional Development
+### 🔍 Core Competencies
+- Statistical Analysis
+- Data Visualization
+- Predictive Modeling
+- Machine Learning Techniques
+- Business Intelligence
+- Strategic Reporting
 
-### Training & Certifications
-- **Data Analyst Specialist** - Digital Egypt Pioneers Initiative (Jun 2024 – Nov 2024)
-- **Data Analytics Bootcamp** - Alex the Analyst (Mar 2024 – May 2024)
+## 🌈 Professional Highlights
 
-### Key Courses
-- DataCamp: Exploratory Data Analysis (SQL, R, Python, Tableau)
-- Maven Analytics: Business Intelligence & Financial Modeling
-- Udemy: Power BI, Tableau, SQL, Advanced Excel
+### 💼 Work Experience
+1. **Accountant** | Mohamed Sadaka Office *(Sep 2023 – Feb 2024)*
+   - Managed financial records and compliance
+   - Conducted monthly bank reconciliations
+   - Prepared comprehensive financial reports
 
-## 💼 Professional Experience
-
-### Key Roles
-1. 📊 **Accountant**, Mohamed Sadaka Office (Sep 2023 – Feb 2024)
-   - Financial record management
-   - Bank reconciliations
-   - Accounting operations
-
-2. ✈️ **Tour Operations Specialist**, Al-Barq Tour Company (Apr 2022 – Jul 2023)
-   - Strategic planning
-   - Customer relationship management
-   - Operational coordination
+2. **Tour Operations Specialist** | Al-Barq Tour Company *(Apr 2022 – Jul 2023)*
+   - Coordinated strategic planning and operations
+   - Managed customer relationships and bookings
+   - Optimized vendor partnerships
 
 ## 🚀 Featured Projects
 
-### Data Analysis Highlights
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| 📊 HR Analytics | SQL, Python | Analyzed employee performance and attrition |
-| 🚲 Bike Sales Analysis | Excel | Market dynamics and sales strategy insights |
-| 🏪 Supermarket Sales | R | Customer behavior and sales trend analysis |
-| 🏦 Customer Segmentation | Python | Advanced clustering for targeted marketing |
+<div align="center">
 
-## 📈 GitHub Statistics
+| Project | Technologies | Key Insights |
+|---------|--------------|--------------|
+| 📊 HR Analytics | SQL, Python | Employee performance optimization |
+| 🚲 Bike Sales Analysis | Excel | Market trend identification |
+| 🏪 Supermarket Sales | R | Customer behavior mapping |
+| 🏦 Customer Segmentation | Python | Targeted marketing strategies |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aml-wajeh&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact)
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aml-wajeh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aml-wajeh&theme=radical" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</div>
 
 ## 🌐 Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aml-wajeh-b40990183">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aml.wajeh24@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/aml-wajeh">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=aml-wajeh&color=blueviolet" alt="Profile Views"/>
 </div>
 
-*Turning data into strategic insights* 📊✨
+*Transforming Data, Empowering Decisions* 📊✨
