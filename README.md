@@ -4,7 +4,7 @@
   <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/DataAnalystPhoto.jpg" alt="Data Analytics Banner" width="100%" height="auto">
 </div>
 
-## 🌟A passionate Data Analyst and Business Intelligence Specialist.
+## 🌟A passionate Business Intelligence Analyst.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,15 +14,22 @@
 
 ## 🚀 About Me
 
-Hi there! 👋 I’m Aml, and I’m passionate about data analytics. I love diving into datasets, uncovering insights, and turning raw numbers into meaningful stories. Whether it’s wrangling data, creating visualizations, or building predictive models, I’m all in! 
-Beyond my professional pursuits, I am an avid chess player, which complements my analytical approach to data analysis. I thrive in dynamic environments and am always eager to tackle and learn from new challenges.
+Hi there! 👋 I am a seasoned Business Intelligence Analyst, Skilled Power BI Engineer, and Passionate Data Analyst with a robust foundation in business administration and a fervent curiosity for artificial intelligence. Throughout my career, I have transformed complex datasets into strategic insights that drive informed decision-making and fuel sustainable business growth. My commitment to excellence is evident in every project, as I strive to reveal the hidden stories within data through statistical analysis, predictive modeling, and visual storytelling.
 
-**Education:** Bachelor's degree in Business Administration, Damanhur University, Class of 2020.
+Leveraging an extensive technical toolkit—including SQL, Excel, Power BI, Python, R, and Tableau—I have honed my expertise in data cleaning, mining, and visualization. My hands-on experience spans a variety of projects, from an HR analysis that enhanced employee retention by 15% to a comprehensive pizza sales analysis that pinpointed peak revenue periods and key performance metrics. I have also led a newsfeed analysis project that boosted user engagement by 25%, underscoring my ability to translate complex data into actionable business strategies. Each endeavor has reinforced my belief in the power of data to transform operations and optimize decision-making processes.
+
+My professional journey has been enriched by diverse roles ranging from freelance Data Analyst to positions in accounting and operational leadership. These experiences have not only sharpened my analytical skills but also deepened my ability to collaborate, lead teams, and communicate effectively across various business functions. With a strong academic background, intensive training, and a proven track record in both technical and strategic arenas, I am dedicated to delivering end-to-end data analysis and business intelligence solutions. I continuously explore innovative AI applications to further enhance my work, ensuring that every insight contributes to measurable growth and operational excellence.
+
+**Education:** Bachelor's degree in Business Administration, Damanhour University, Class of 2020.
 
 **Certifications & Training:**
-  - **Digital Egypt Youth (DEY):** Mastered SQL, Python, R, Tableau, Power BI, and freelancing skills through a comprehensive 120-hour training.
-  - **Digital Egypt Pioneers Initiative (DEPI):** Completed a six-month intensive program in data analysis and freelancing.
-  - **Alex the Analyst Bootcamp:** Practical training in SQL, Tableau, Power BI, and Python with a focus on real-world applications.
+
+  - **Digital Egypt Youth (DEY):
+** Mastered SQL, Python, R, Tableau, Power BI, and freelancing skills through a comprehensive 120-hour training.
+  - **Digital Egypt Pioneers Initiative (DEPI):
+** Completed a six-month intensive program in data analysis and freelancing.
+  - **Alex the Analyst Bootcamp:
+** Practical training in SQL, Tableau, Power BI, and Python with a focus on real-world applications.
 
 ## 💻 Technical Toolkit
 
