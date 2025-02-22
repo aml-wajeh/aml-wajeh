@@ -29,7 +29,7 @@ Data and Business Intelligence Analyst with 2 years of experience transforming c
 
 ### AI and Machine Learning Specialist | Feb 2025 - Mar 2025
 **The National Telecommunication Institute (NTI) & Engineers for Sustainable Egypt**
-- Completed 40-hour "Artificial Intelligence Ambassadors" program
+- Completing 40-hour "Artificial Intelligence Ambassadors" program
 - Mastered AI fundamentals and machine learning applications
 - Developed expertise in:
   - Power BI implementation
@@ -101,13 +101,6 @@ Performed public service duties with an excellent grade.
     - dplyr
     - lubridate
 
-### Data Science & Machine Learning
-- 🤖 Predictive Modeling
-- 📈 Statistical Analysis
-- 🔄 Time Series Analysis
-- 📊 Data Mining
-- 🎯 Classification & Regression
-- 🧮 Clustering Algorithms
 
 ### Development & Coding
 - 🗄️ SQL Server Management Studio
