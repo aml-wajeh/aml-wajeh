@@ -20,6 +20,13 @@
 
 Data and Business Intelligence Analyst with 2 years of experience transforming complex datasets into actionable business insights. Specializing in advanced analytics and visualization using Power BI, Tableau, SQL, Python, and R. Passionate about leveraging AI and machine learning to drive data-informed decision-making. Available for relocation and eager to contribute to innovative data projects globally.
 
+
+## 🎓 Education
+
+### Bachelor's Degree in Business Administration | 2020
+**Faculty of Commerce, English Section - Damanhur University**
+
+
 ## 💼 Professional Experience
 
 ### Data Analyst (Freelancer) | Nov 2024 - Present
@@ -73,10 +80,34 @@ Performed public service duties with an excellent grade.
 - Handled international tour arrangements
 - Managed client communications and service quality
 
-## 🎓 Education
 
-### Bachelor's Degree in Business Administration | 2020
-**Faculty of Commerce, English Section - Damanhur University**
+
+## 📚 Professional Development
+
+### Certifications & Training
+
+- 🤖 **AI and Machine Learning Specialist** - NTI & Engineers for Sustainable Egypt (2025)
+  - 40-hour intensive program
+  - Focus on AI applications in business
+  - Hands-on machine learning projects
+
+- 📊 **Business Intelligence Analyst** - National Telecommunication Institute (NTI) (2024-2025)
+  - 120-hour comprehensive program
+  - Advanced data analysis techniques
+  - Real-world project implementation
+
+- 💡 **Data Analyst Specialist** - Digital Egypt Pioneers Initiative (DEPI) (2024)
+  - 180-hour extensive training
+  - Freelancing and project management
+  - Advanced analytical tools mastery
+
+### Recent Training Programs
+
+- 🎯 **Sales Business Analysis** - iCareer (2025)
+- 🤖 **AI and ML Specialization** - Shabab Mubtakir Academy & Huawei (2025)
+- 📊 **Data Analytics Bootcamp** - Analyst Builder (2024)
+
+
 
 ## 🛠️ Technical Skills
 
@@ -120,6 +151,19 @@ Performed public service duties with an excellent grade.
 - 🎨 Miro
 - 📝 Microsoft Office Suite
 
+
+## 💪 Soft Skills
+- 🗣️ Strong Communication
+- 🎯 Problem-Solving
+- 📊 Analytical Thinking
+- 👥 Team Leadership
+- 🔄 Adaptability
+- ⏰ Time Management
+- 🎨 Creative Thinking
+- 📈 Business Acumen
+
+
+  
 ## 🚀 Featured Projects
 
 ### 1. HR Analytics Dashboard
@@ -172,38 +216,7 @@ Performed public service duties with an excellent grade.
   - Content performance metrics
   - Recommendation engine basis
 
-## 📚 Professional Development
 
-### Certifications & Training
-- 🤖 **AI and Machine Learning Specialist** - NTI & Engineers for Sustainable Egypt (2025)
-  - 40-hour intensive program
-  - Focus on AI applications in business
-  - Hands-on machine learning projects
-
-- 📊 **Business Intelligence Analyst** - National Telecommunication Institute (NTI) (2024-2025)
-  - 120-hour comprehensive program
-  - Advanced data analysis techniques
-  - Real-world project implementation
-
-- 💡 **Data Analyst Specialist** - Digital Egypt Pioneers Initiative (DEPI) (2024)
-  - 180-hour extensive training
-  - Freelancing and project management
-  - Advanced analytical tools mastery
-
-### Recent Training Programs
-- 🎯 **Sales Business Analysis** - iCareer (2025)
-- 🤖 **AI and ML Specialization** - Shabab Mubtakir Academy & Huawei (2025)
-- 📊 **Data Analytics Bootcamp** - Analyst Builder (2024)
-
-## 💪 Soft Skills
-- 🗣️ Strong Communication
-- 🎯 Problem-Solving
-- 📊 Analytical Thinking
-- 👥 Team Leadership
-- 🔄 Adaptability
-- ⏰ Time Management
-- 🎨 Creative Thinking
-- 📈 Business Acumen
 
 ## 📫 Let's Connect!
 
