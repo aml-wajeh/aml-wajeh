@@ -1,5 +1,9 @@
 #  Aml's Portfolio ✵
 
+<div align="center">
+  <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/Data Analysis.jpg" alt="Data Analytics Banner" width="100%" height="auto">
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
