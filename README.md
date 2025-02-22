@@ -16,15 +16,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:aml.wajeh24@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=flat-square&logo=github)](https://github.com/aml-wajeh)
 
+
 ## 🎯 About Me
 
 Data and Business Intelligence Analyst with 2 years of experience transforming complex datasets into actionable business insights. Specializing in advanced analytics and visualization using Power BI, Tableau, SQL, Python, and R. Passionate about leveraging AI and machine learning to drive data-informed decision-making. Available for relocation and eager to contribute to innovative data projects globally.
+
 
 
 ## 🎓 Education
 
 ### Bachelor's Degree in Business Administration | 2020
 **Faculty of Commerce, English Section - Damanhur University**
+
 
 
 ## 💼 Professional Experience
