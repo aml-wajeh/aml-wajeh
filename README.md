@@ -236,5 +236,5 @@ Performed public service duties with an excellent grade.
 
 ---
 
-### 💭 Quote of the Day
+### 💭 Quote 
 > "Data is the new oil, but like oil, it's only valuable when refined into insight."
