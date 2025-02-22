@@ -1,113 +1,227 @@
-#  Welcome to My Data Analytics Portfolio 👋
+#  Aml's Portfolio ✵
 
-<div align="center">
-  <img src="https://github.com/aml-wajeh/aml-wajeh/blob/main/DataAnalystPhoto.jpg" alt="Data Analytics Banner" width="100%" height="auto">
-</div>
-
-## 🌟A passionate Business Intelligence Analyst.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=2C95FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Problem+Solver;Business+Intelligence+Expert;Transforming+Data+into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=2C95FF&center=true&vCenter=true&width=600&lines=Seasoned+Business+Intelligence+Analyst;AI+Explorer;Passionate+Data+Analyst;Transforming+Data+into+Insights;Business+Administration+Professional" alt="Typing SVG" />
   </a>
 </div>
 
-## 🚀 About Me
 
-Hi there! 👋 I am a seasoned Business Intelligence Analyst, Skilled Power BI Engineer, and Passionate Data Analyst with a robust foundation in business administration and a fervent curiosity for artificial intelligence. Throughout my career, I have transformed complex datasets into strategic insights that drive informed decision-making and fuel sustainable business growth. My commitment to excellence is evident in every project, as I strive to reveal the hidden stories within data through statistical analysis, predictive modeling, and visual storytelling.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aml-wajeh)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:aml.wajeh24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=flat-square&logo=github)](https://github.com/aml-wajeh)
 
-Leveraging an extensive technical toolkit—including SQL, Excel, Power BI, Python, R, and Tableau—I have honed my expertise in data cleaning, mining, and visualization. My hands-on experience spans a variety of projects, from an HR analysis that enhanced employee retention by 15% to a comprehensive pizza sales analysis that pinpointed peak revenue periods and key performance metrics. I have also led a newsfeed analysis project that boosted user engagement by 25%, underscoring my ability to translate complex data into actionable business strategies. Each endeavor has reinforced my belief in the power of data to transform operations and optimize decision-making processes.
+## 🎯 About Me
 
-My professional journey has been enriched by diverse roles ranging from freelance Data Analyst to positions in accounting and operational leadership. These experiences have not only sharpened my analytical skills but also deepened my ability to collaborate, lead teams, and communicate effectively across various business functions. With a strong academic background, intensive training, and a proven track record in both technical and strategic arenas, I am dedicated to delivering end-to-end data analysis and business intelligence solutions. I continuously explore innovative AI applications to further enhance my work, ensuring that every insight contributes to measurable growth and operational excellence.
+Data and Business Intelligence Analyst with 2 years of experience transforming complex datasets into actionable business insights. Specializing in advanced analytics and visualization using Power BI, Tableau, SQL, Python, and R. Passionate about leveraging AI and machine learning to drive data-informed decision-making. Available for relocation and eager to contribute to innovative data projects globally.
 
-**Education:** Bachelor's degree in Business Administration, Damanhour University, Class of 2020.
+## 💼 Professional Experience
 
-**Certifications & Training:**
+### Data Analyst (Freelancer) | Nov 2024 - Present
+- Deliver data-driven solutions through various freelancing platforms
+- Specialize in creating comprehensive analytics reports and interactive dashboards
+- Work with international clients on diverse data projects
 
-  - **Digital Egypt Youth (DEY):
-** Mastered SQL, Python, R, Tableau, Power BI, and freelancing skills through a comprehensive 120-hour training.
-  - **Digital Egypt Pioneers Initiative (DEPI):
-** Completed a six-month intensive program in data analysis and freelancing.
-  - **Alex the Analyst Bootcamp:
-** Practical training in SQL, Tableau, Power BI, and Python with a focus on real-world applications.
+### AI and Machine Learning Specialist | Feb 2025 - Mar 2025
+**The National Telecommunication Institute (NTI) & Engineers for Sustainable Egypt**
+- Completed 40-hour "Artificial Intelligence Ambassadors" program
+- Mastered AI fundamentals and machine learning applications
+- Developed expertise in:
+  - Power BI implementation
+  - ChatGPT integration
+  - AI-driven business solutions
+  - Healthcare analytics
+  - Predictive modeling
 
-## 💻 Technical Toolkit
+### Business Intelligence Analyst | Nov 2024 - Feb 2025
+**National Telecommunication Institute (NTI)**
+- Completed 120-hour intensive Data Analysis program
+- Mastered:
+  - Advanced SQL queries and database management
+  - Python data analysis workflows
+  - R statistical computing
+  - Power BI dashboard creation
+  - Tableau visualization techniques
 
-### 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Data Analyst Specialist | Apr 2024 - Oct 2024
+**Digital Egypt Pioneers Initiative (DEPI)**
+- Completed 180-hour comprehensive training program
+- Developed expertise in:
+  - Advanced data analysis techniques
+  - Project management methodologies
+  - Digital platform marketing
+  - Freelancing best practices
 
-### 🔍 Core Competencies
-- Statistical Analysis
-- Data Visualization
-- Predictive Modeling
-- Machine Learning Techniques
-- Business Intelligence
-- Strategic Reporting
+### Accountant | Sep 2023 - Oct 2024
+**Mr. Mohamed Sadaka Office**
+- Managed financial records for multiple clients
+- Performed monthly reconciliations
+- Generated detailed financial reports
 
+### Data Entry - Accountant | Mar 2021 – Mar 2022
+**State Council of Egypt**
+Performed public service duties with an excellent grade.
 
-### 💼 Professional Experience
-- Developed data-driven solutions across industries, from tourism operations to accounting.
-- Hands-on experience in project management, financial reporting, and customer service optimization
+### Director - Tour Operations Specialist | Jan 2017 - Aug 2023
+**Moltaqa Al-Alam Tour Company**
+- Led company operations and team management
+- Handled international tour arrangements
+- Managed client communications and service quality
 
+## 🎓 Education
+
+### Bachelor's Degree in Business Administration | 2020
+**Faculty of Commerce, English Section - Damanhur University**
+
+## 🛠️ Technical Skills
+
+### Data Analysis & Visualization
+
+- **Data Analysis Tools:**
+  - ✨ Advanced Excel (Pivot Tables, VLOOKUP, Power Query)
+  - 📊 Power BI (DAX, Power Query, Custom Visuals)
+  - 📈 Tableau (Desktop, Public)
+  - 🔍 SQL (Queries, Stored Procedures, Views)
+  
+- **Programming Languages:**
+  - 🐍 Python
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Seaborn
+    - Scikit-learn
+  - 📊 R
+    - tidyverse
+    - ggplot2
+    - dplyr
+    - lubridate
+
+### Data Science & Machine Learning
+- 🤖 Predictive Modeling
+- 📈 Statistical Analysis
+- 🔄 Time Series Analysis
+- 📊 Data Mining
+- 🎯 Classification & Regression
+- 🧮 Clustering Algorithms
+
+### Development & Coding
+- 🗄️ SQL Server Management Studio
+- 📝 Git & GitHub
+- 🔄 Visual Studio Code
+- 🔧 R Studio
+- 📊 Database Design & Modeling
+
+### Visualization & Documentation
+- 📐 Draw.io
+- 📝 Lucidchart
+- 🔧 dbdiagram.io
+- 📊 ERDPlus
+
+### Project Management & Collaboration
+- 📋 Notion
+- 🎨 Miro
+- 📝 Microsoft Office Suite
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  
-1- 📊**HR Analysis:**
-**Tools:** SQL, Python
-Analyzed HR metrics to optimize employee engagement and retention strategies.
-  
-2- 🚲**Bike Sales Analysis:**
-**Tool:** Excel
-Conducted sales analysis to enhance marketing and sales strategies.
+### 1. HR Analytics Dashboard
+**[View Project](https://github.com/your-username/hr-analytics)**
+- **Tech Stack:** SQL, Python, Excel, Power BI
+- **Problem Solved:** High employee turnover and lack of performance visibility
+- **Impact:** 
+  - 15% improvement in employee retention
+  - Created real-time performance monitoring system
+  - Reduced HR reporting time by 40%
+- **Key Features:**
+  - Interactive Power BI dashboard
+  - Predictive attrition model
+  - Employee satisfaction tracking
+  - Performance metrics visualization
 
-3- 🏪**Supermarket Sales Trends:**
-**Tool:** R
-Uncovered consumer trends to drive sales performance improvement.
+### 2. Pizza Sales Analysis
+**[View Project](https://github.com/your-username/pizza-sales)**
+- **Tech Stack:** Excel, Power Query, DAX
+- **Dataset:** 21,350 orders
+- **Total Revenue:** $817,860.05
+- **Key Insights:**
+  - Peak revenue days identified (Fridays: $136,074)
+  - Best-selling category analysis
+  - Customer ordering patterns
+  - Price optimization recommendations
 
-4- 🏦**Bank Customer Segmentation:**
-**Tool:** Python
-Developed models to optimize targeted marketing efforts.
+### 3. Supermarket Sales Analysis
+**[View Project](https://github.com/your-username/supermarket-analysis)**
+- **Tech Stack:** R, tidyverse, ggplot2
+- **Analysis Components:**
+  - Sales trend analysis
+  - Customer segmentation
+  - Product performance metrics
+  - Gender-based buying patterns
+- **Visualizations:**
+  - Time series plots
+  - Customer behavior heatmaps
+  - Product category analysis
+  - Demographic insights
 
-5- **Manufacturing Downtime Analysis:**
-**Tool:** Excel
-Identified operational inefficiencies and recommended process improvements.
+### 4. Newsfeed Engagement Analysis
+**[View Project](https://github.com/your-username/newsfeed-analysis)**
+- **Tech Stack:** Tableau
+- **Period:** January - May 2023
+- **Scale:** 17,933 peak monthly posts
+- **Key Findings:**
+  - Engagement patterns by content type
+  - User interaction trends
+  - Content performance metrics
+  - Recommendation engine basis
 
-6- **Movie Trends Automation:**
-**Tool:** Python
-Automated data updates for market trend insights
+## 📚 Professional Development
 
+### Certifications & Training
+- 🤖 **AI and Machine Learning Specialist** - NTI & Engineers for Sustainable Egypt (2025)
+  - 40-hour intensive program
+  - Focus on AI applications in business
+  - Hands-on machine learning projects
 
-</div>
+- 📊 **Business Intelligence Analyst** - National Telecommunication Institute (NTI) (2024-2025)
+  - 120-hour comprehensive program
+  - Advanced data analysis techniques
+  - Real-world project implementation
 
-## 📈 GitHub Analytics
+- 💡 **Data Analyst Specialist** - Digital Egypt Pioneers Initiative (DEPI) (2024)
+  - 180-hour extensive training
+  - Freelancing and project management
+  - Advanced analytical tools mastery
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aml-wajeh&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aml-wajeh&theme=radical" alt="GitHub Streak" width="48%"/>
-</div>
+### Recent Training Programs
+- 🎯 **Sales Business Analysis** - iCareer (2025)
+- 🤖 **AI and ML Specialization** - Shabab Mubtakir Academy & Huawei (2025)
+- 📊 **Data Analytics Bootcamp** - Analyst Builder (2024)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</div>
+## 💪 Soft Skills
+- 🗣️ Strong Communication
+- 🎯 Problem-Solving
+- 📊 Analytical Thinking
+- 👥 Team Leadership
+- 🔄 Adaptability
+- ⏰ Time Management
+- 🎨 Creative Thinking
+- 📈 Business Acumen
 
-## 🌐 Portfolio & Contact
+## 📫 Let's Connect!
 
-📂 Portfolio:
-NovyPro | Maven Analytics | Tableau Public
-💌 Email: aml.wajeh24@gmail.com
-🌐 LinkedIn: Aml Wajeh
-💻 GitHub: aml-wajeh
+- 📧 Email: aml.wajeh24@gmail.com
+- 📱 Phone: (+20) 1006837361
+- 🔗 LinkedIn: [aml-wajeh](https://www.linkedin.com/in/aml-wajeh)
+- 🌐 GitHub: [aml-wajeh](https://github.com/aml-wajeh)
+
+## 📊 GitHub Stats
+
+[![Aml's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aml-wajeh&show_icons=true&theme=radical)](https://github.com/aml-wajeh)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact&theme=radical)](https://github.com/aml-wajeh)
+
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aml-wajeh&color=blueviolet" alt="Profile Views"/>
-</div>
-
-*Transforming Data, Empowering Decisions* 📊✨
+### 💭 Quote of the Day
+> "Data is the new oil, but like oil, it's only valuable when refined into insight."
