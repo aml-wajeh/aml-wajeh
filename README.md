@@ -170,7 +170,7 @@ Performed public service duties with an excellent grade.
 ## 🚀 Featured Projects
 
 ### 1. HR Analytics Dashboard
-**[View Project](https://github.com/your-username/hr-analytics)**
+**[View Project](https://github.com/aml-wajeh/HR-Analysis)**
 - **Tech Stack:** SQL, Python, Excel, Power BI
 - **Problem Solved:** High employee turnover and lack of performance visibility
 - **Impact:** 
@@ -184,7 +184,7 @@ Performed public service duties with an excellent grade.
   - Performance metrics visualization
 
 ### 2. Pizza Sales Analysis
-**[View Project](https://github.com/your-username/pizza-sales)**
+**[View Project](https://github.com/aml-wajeh/pizza-sales-project)**
 - **Tech Stack:** Excel, Power Query, DAX
 - **Dataset:** 21,350 orders
 - **Total Revenue:** $817,860.05
@@ -195,7 +195,7 @@ Performed public service duties with an excellent grade.
   - Price optimization recommendations
 
 ### 3. Supermarket Sales Analysis
-**[View Project](https://github.com/your-username/supermarket-analysis)**
+**[View Project](https://github.com/aml-wajeh/Supermarket-Sales)**
 - **Tech Stack:** R, tidyverse, ggplot2
 - **Analysis Components:**
   - Sales trend analysis
@@ -209,7 +209,7 @@ Performed public service duties with an excellent grade.
   - Demographic insights
 
 ### 4. Newsfeed Engagement Analysis
-**[View Project](https://github.com/your-username/newsfeed-analysis)**
+**[View Project](https://github.com/aml-wajeh/Newsfeed-analysis-project)**
 - **Tech Stack:** Tableau
 - **Period:** January - May 2023
 - **Scale:** 17,933 peak monthly posts
