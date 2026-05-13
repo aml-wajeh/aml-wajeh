@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="banner.jpg" alt="Aml Wajeh Abuzeid - Applied AI & Data Analytics Specialist" width="100%" />
+</div>
+
+
+
+
 <!--
   Hi there! Thanks for visiting my profile.
   Last updated: May 2026
