@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Aml Wajeh Abuzeid - Applied AI & Data Analytics Specialist" width="100%" />
+  <img src="banner.png" alt="Aml Wajeh Abuzeid - Applied AI & Data Analytics Specialist" width="100%" />
 </div>
 
 
