@@ -146,7 +146,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - SQL-based data warehousing for historical trend analysis
 - Real-time dashboard for logistics KPI monitoring
 
-📂 **[View Project](https://github.com/aml-wajeh)** · 
+📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/End-to-End-Logistics-Intelligence-System))** · 
 
 ---
 
@@ -178,7 +178,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Statistical modeling for trend identification
 - Interactive visualization with drill-down capabilities
 
-📂 **[View Project](https://github.com/aml-wajeh)** · 
+📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System))** · 
 
 ---
 
@@ -212,7 +212,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Time-series analysis for pattern identification
 - Regional performance comparison dashboards
 
-📂 **[View Project](https://github.com/aml-wajeh)** · 
+📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/SmartMart_Executive_Sales))** · 
 
 ---
 
@@ -245,7 +245,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Advanced analytics with Python and R
 - Multi-layered Power BI dashboards
 
-📂 **[View Project](https://github.com/aml-wajeh)** · 
+📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/Adventure-Works-End-to-End-Business-Intelligence-Predictive-Analytics-Suite.git))** · 
 
 ---
 
@@ -279,7 +279,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Cross-functional collaboration dashboards
 - Senior management executive reports
 
-📂 **[View Project](https://github.com/aml-wajeh)** · 
+📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/HR-Analysis))** · 
 
 ---
 
