@@ -153,7 +153,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - SQL-based data warehousing for historical trend analysis
 - Real-time dashboard for logistics KPI monitoring
 
-📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/End-to-End-Logistics-Intelligence-System))** · 
+📂 **[View Project]([https://github.com/aml-wajeh]([https://github.com/aml-wajeh/End-to-End-Logistics-Intelligence-System]))** · 
 
 ---
 
@@ -162,7 +162,6 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-9CAF3E?style=flat-square)
 ![Classification](https://img.shields.io/badge/Classification-4A5F2F?style=flat-square)
 
@@ -185,7 +184,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Statistical modeling for trend identification
 - Interactive visualization with drill-down capabilities
 
-📂 **[View Project]([https://github.com/aml-wajeh](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System))** · 
+📂 **[View Project]([https://github.com/aml-wajeh]([https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System]))** · 
 
 ---
 
@@ -369,9 +368,6 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aml-wajeh&show_icons=true&theme=custom&hide_border=true&title_color=F4E842&icon_color=9CAF3E&text_color=4A5F2F&bg_color=1A1A1A&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aml-wajeh&layout=compact&theme=custom&hide_border=true&title_color=F4E842&text_color=9CAF3E&bg_color=1A1A1A&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aml-wajeh&theme=dark&hide_border=true&background=1A1A1A&stroke=F4E842&ring=9CAF3E&fire=4A5F2F)
 
@@ -415,12 +411,13 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 
 </div>
 
-I'm actively seeking **senior-level opportunities** where I can leverage my unique combination of **business leadership experience** and **advanced AI/analytics expertise** to drive measurable impact.
+I'm actively seeking **opportunities** where I can leverage my unique combination of **business leadership experience** and **advanced AI/analytics expertise** to drive measurable impact.
 
 **🎯 Target Roles:**
 - Applied AI Specialist
-- AI Engineer / Machine Learning Engineer
-- Senior Data Scientist / Data Analyst
+- Machine Learning Engineer
+- Data Scientist
+- Data Analytics Specialist
 - Business Intelligence Analyst / Consultant
 - Analytics Engineer
 - Data Strategy Consultant
