@@ -182,8 +182,8 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Interactive visualization with drill-down capabilities
 
 📂 **[View Project](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System)**
-
 ---
+
 
 ### **3. SmartMart Executive Sales Intelligence Dashboard**
 
@@ -216,8 +216,8 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Regional performance comparison dashboards
 
 📂 **[View Project](https://github.com/aml-wajeh/SmartMart_Executive_Sales)** · 
-
 ---
+
 
 ### **4. Adventure Works: End-to-End Business Intelligence & Predictive Analytics Suite**
 
@@ -249,8 +249,8 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Multi-layered Power BI dashboards
 
 📂 **[View Project](https://github.com/aml-wajeh/Adventure-Works-End-to-End-Business-Intelligence-Predictive-Analytics-Suite.git)** · 
-
 ---
+
 
 ### **5. HR Analytics: Employee Retention & Performance Intelligence**
 
@@ -283,8 +283,8 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Senior management executive reports
 
 📂 **[View Project](https://github.com/aml-wajeh/HR-Analysis)** · 
-
 ---
+
 
 ## 🎯 **AI & Data Specialization**
 
