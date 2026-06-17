@@ -3,7 +3,9 @@
 </div>
 
 
-
+<div align="center">
+  <img src="overview.png" width="100%" />
+</div>
 
 <!--
   Hi there! Thanks for visiting my profile.
@@ -12,7 +14,6 @@
 
 <div align="center">
 
-# **Aml Wajeh Abuzeid**
 
 ### **Applied AI & Data Analytics Specialist | Business Intelligence Expert**
 
