@@ -215,7 +215,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Time-series analysis for pattern identification
 - Regional performance comparison dashboards
 
-📂 **[View Project](https://github.com/aml-wajeh/SmartMart_Executive_Sales)** · 
+📂 **[View Project](https://github.com/aml-wajeh/SmartMart_Executive_Sales)**
 ---
 
 
@@ -248,7 +248,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Advanced analytics with Python and R
 - Multi-layered Power BI dashboards
 
-📂 **[View Project](https://github.com/aml-wajeh/Adventure-Works-End-to-End-Business-Intelligence-Predictive-Analytics-Suite.git)** · 
+📂 **[View Project](https://github.com/aml-wajeh/Adventure-Works-End-to-End-Business-Intelligence-Predictive-Analytics-Suite.git)**
 ---
 
 
@@ -282,7 +282,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Cross-functional collaboration dashboards
 - Senior management executive reports
 
-📂 **[View Project](https://github.com/aml-wajeh/HR-Analysis)** · 
+📂 **[View Project](https://github.com/aml-wajeh/HR-Analysis)**
 ---
 
 
@@ -466,6 +466,10 @@ I'm actively seeking **opportunities** where I can leverage my unique combinatio
 
 </div>
 
+
+<div align="center">
+  <img src="overview.png" width="100%" />
+</div>
 <!--
   Profile Color Theme: Non-Binary Pride Inspired
   Colors: #F4E842 (Yellow), #9CAF3E (Olive), #4A5F2F (Dark Olive), #1A1A1A (Dark)
