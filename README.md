@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.png" alt="Aml Wajeh Abuzeid - Applied AI & Data Analytics Specialist" width="100%" />
-</div>
-
 
 <div align="center">
   <img src="overview.png" width="100%" />
@@ -15,7 +11,6 @@
 <div align="center">
 
 
-### **Applied AI & Data Analytics Specialist | Business Intelligence Expert**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-wajeh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-F4E842?style=for-the-badge&logo=google-chrome&logoColor=1A1A1A)](https://aml-wajeh-abozeid.netlify.app/)
