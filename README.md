@@ -181,7 +181,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 - Statistical modeling for trend identification
 - Interactive visualization with drill-down capabilities
 
-📂 **[View Project](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System)** · 
+📂 **[View Project](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System)**
 
 ---
 
