@@ -361,16 +361,6 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aml-wajeh&theme=dark&hide_border=true&background=1A1A1A&stroke=F4E842&ring=9CAF3E&fire=4A5F2F)
-
-</div>
-
----
 
 ## 🎯 **Currently Working On**
 
