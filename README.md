@@ -456,9 +456,6 @@ I'm actively seeking **opportunities** where I can leverage my unique combinatio
 
 </div>
 
-
-<div align="center">
-  <img src="overview.png" width="100%" />
 </div>
 <!--
   Profile Color Theme: Non-Binary Pride Inspired
