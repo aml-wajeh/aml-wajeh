@@ -33,7 +33,7 @@
 
 ## 🎯 **Professional Identity**
 
-> **Transforming complex data into strategic business outcomes** — I bridge the gap between raw complexity and strategic clarity, helping organizations unlock the value buried in their data. With **5+ years of professional experience** spanning business leadership and advanced AI/analytics, I deliver **precision-driven insights** that move the needle.
+> **Transforming complex data into strategic business outcomes** — I bridge the gap between raw complexity and strategic clarity, helping organizations unlock the value buried in their data. With **2+ years of professional experience** spanning business leadership and advanced AI/analytics, I deliver **precision-driven insights** that move the needle.
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ## 👤 **About Me**
 
-I'm a **Business Intelligence & Applied AI Specialist** with a unique dual expertise: deep technical mastery in AI/ML and data analytics, combined with strong business acumen from 5+ years of operational leadership. My background in business administration, coupled with intensive training in **Applied AI, Machine Learning, and Big Data Analytics**, positions me to solve complex business challenges through data-driven strategies.
+I'm a **Business Intelligence & Applied AI Specialist** with a unique dual expertise: deep technical mastery in AI/ML and data analytics, combined with strong business acumen from 2+ years of operational leadership. My background in business administration, coupled with intensive training in **Applied AI, Machine Learning, and Big Data Analytics**, positions me to solve complex business challenges through data-driven strategies.
 
 Currently advancing my technical excellence in the **Digital Pioneers Initiative (Digilians)** — an elite program at the **Ministry of Communications and Information Technology (MCIT)** — where I engineer scalable Big Data analytics pipelines processing **1M+ daily data points** with military-grade precision and 100% adherence to operational timelines.
 
@@ -348,7 +348,9 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 </div>
 
 ### **2026**
-- **Google Data Analytics Professional Certificate** — Google (Coursera) | *Issued Apr 2026*
+- **Microsoft Certified: Fabric Analytics Engineer Associate** — Microsoft (Jul 2026) 
+- **Microsoft Certified: Power BI Data Analyst Associate** — Microsoft (Jul 2026) 
+- **Google Data Analytics Professional Certificate** — Google (Coursera) | (Apr 2026)
 
 ### **2025**
 - **IBM SkillsBuild Certified Data Analytics** — Education for Employment (EFE-Global) | *Issued May 2025*
@@ -410,7 +412,7 @@ I'm actively seeking **opportunities** where I can leverage my unique combinatio
 - Data Strategy Consultant
 
 **💡 What I Bring:**
-- ✅ **5+ years** of professional experience with proven business impact
+- ✅ **2+ years** of professional experience with proven business impact
 - ✅ **360+ hours** of elite technical training (DEPI, NTI, Digilians)
 - ✅ **Bilingual expertise**: Business strategy + Technical execution
 - ✅ **Quantifiable results**: 15% retention improvement, 20% time savings, 35% faster reporting
