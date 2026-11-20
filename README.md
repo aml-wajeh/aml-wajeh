@@ -1,434 +1,72 @@
-<div align="center">
-  <img src="banner.png" alt="Aml Wajeh Abuzeid - Applied AI & Data Analytics Specialist" width="100%" />
-</div>
+# Aml Wajeh Abuzeid
 
-<!--
-  Hi there! Thanks for visiting my profile.
-  Last updated: May 2026
--->
+### Applied AI & Data Intelligence Engineer
 
+I turn scattered business data into clean databases, clear dashboards and practical AI tools that help people make decisions. My background is six years in business operations and accounting, so I start from the business question, then use data, machine learning and LLMs to answer it.
 
+**Cairo, Egypt** · open to on-site work in Cairo, relocation to Saudi Arabia, or remote work
 
-
-<div align="center">
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-wajeh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-F4E842?style=for-the-badge&logo=google-chrome&logoColor=1A1A1A)](https://aml-wajeh-abozeid.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-9CAF3E?style=for-the-badge&logo=gmail&logoColor=1A1A1A)](mailto:aml.wajeh24@gmail.com)
-[![Cairo, Egypt](https://img.shields.io/badge/Location-Cairo,%20Egypt-4A5F2F?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/cairo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aml--wajeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aml-wajeh/)
+[![Email](https://img.shields.io/badge/Email-aml.wajeh24%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aml.wajeh24@gmail.com)
 
 ---
 
-</div>
+## What I work on
 
-<div align="center">
+- **Data Analytics & BI**: bringing data from Excel, forms and other sources into one PostgreSQL / SQL Server database, cleaning and validating it, and building dashboards in Power BI and Microsoft Fabric.
+- **Applied AI / ML**: classical ML for prediction and classification, and computer vision on video with PyTorch.
+- **LLM-powered automation**: local and hosted LLMs, retrieval-augmented generation (RAG) and n8n workflows that classify, route and answer messages.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aml-wajeh&label=Profile%20Views&color=F4E842&style=for-the-badge&logo=github)
-
-</div>
-
----
-
-## 🎯 **Professional Identity**
-
-> **Transforming complex data into strategic business outcomes** — I bridge the gap between raw complexity and strategic clarity, helping organizations unlock the value buried in their data. With **2+ years of professional experience** spanning business leadership and advanced AI/analytics, I deliver **precision-driven insights** that move the needle.
-
-<div align="center">
-
-**📊 15% Employee Retention Improvement** · **⚡ 20% Reporting Time Reduction** · **📈 35% Faster Data Reporting** · **🎓 360+ Hours Elite Training**
-
-</div>
+Right now I lead the data and AI work on an internal monitoring platform during a Ministry of Communications and IT (MCIT) training placement. I have also worked as a freelance data analyst since October 2024.
 
 ---
 
-## 👤 **About Me**
+## Featured projects
 
-I'm a **Business Intelligence & Applied AI Specialist** with a unique dual expertise: deep technical mastery in AI/ML and data analytics, combined with strong business acumen from 2+ years of operational leadership. My background in business administration, coupled with intensive training in **Applied AI, Machine Learning, and Big Data Analytics**, positions me to solve complex business challenges through data-driven strategies.
-
-Currently advancing my technical excellence in the **Digital Pioneers Initiative (Digilians)** — an elite program at the **Ministry of Communications and Information Technology (MCIT)** — where I engineer scalable Big Data analytics pipelines processing **1M+ daily data points** with military-grade precision and 100% adherence to operational timelines.
-
-**What sets me apart:**
-- ✅ **Business-First Approach**: Every analysis starts with the question "What business problem are we solving?"
-- ✅ **Discipline**: 24/7 operational excellence and unwavering commitment to quality
-- ✅ **End-to-End Ownership**: From raw data ingestion to executive dashboards and strategic recommendations
-- ✅ **Quantifiable Impact**: Proven track record of delivering measurable business outcomes
-- ✅ **Bilingual Communication**: Fluent in both technical and business languages
+| Project | What it is |
+|---|---|
+| [**FrontalOS**](https://github.com/aml-wajeh/FrontalOS) | Research prototype that estimates engagement from webcam video with a fine-tuned X3D-XS model (DAiSEE, 9,068 clips), with a real-time pipeline, a PostgreSQL backend and role-based portals. v2 in progress. |
+| [**VERIDEX**](https://github.com/aml-wajeh/VERIDEX_The-Archive) | RAG engine over SQuAD v2 (Chroma + Groq) that answers from retrieved evidence and refuses when the context doesn't contain the answer. Layered, unit-tested codebase. |
+| [**Logistics Intelligence System**](https://github.com/aml-wajeh/End-to-End-Logistics-Intelligence-System) | SQL Server database, Power BI warehouse dashboards and a Python model that scores shipment delay risk at booking time. |
+| [**Space Debris Collision Risk**](https://github.com/aml-wajeh/Space_Debris_Collision_Risk_Prediction_System) | Collision-risk prediction on the ESA Kelvins conjunction dataset, with a validated gradient-boosting baseline and deep-learning models prepared for the next stage. |
 
 ---
 
-## 💼 **Core Expertise**
+## Tech stack
 
-<div align="center">
-
-| **Applied AI & Machine Learning** | **Data Analytics & Engineering** | **Business Intelligence** |
-|:---:|:---:|:---:|
-| Predictive Modeling | ETL Processes | Executive Dashboards |
-| Deep Learning (CNN, RNN, GAN) | Data Warehousing | KPI Development |
-| Neural Networks | Big Data Analytics | Data Storytelling |
-| Computer Vision | Data Governance | Strategic Reporting |
-| NLP & Text Analytics | Statistical Analysis | Business Strategy |
-
-</div>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-### **Programming & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=F4E842)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=9CAF3E)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&color=4A5F2F)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=1A1A1A)
-
-### **Machine Learning & AI**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=F4E842)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=9CAF3E)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=4A5F2F)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=1A1A1A)
-
-### **Business Intelligence & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&color=F4E842)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&color=9CAF3E)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=4A5F2F)
-![DAX](https://img.shields.io/badge/DAX-Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&color=1A1A1A)
-
-### **Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=F4E842)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=9CAF3E)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=4A5F2F)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1A1A1A)
-
-### **Analytics & Collaboration Tools**
-
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white&color=F4E842)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=9CAF3E)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&color=4A5F2F)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-252F3E?style=for-the-badge&logo=lucidchart&logoColor=white&color=1A1A1A)
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-### **Portfolio Highlights**
-
-</div>
-
----
-
-### **1. End-to-End Transportation & Logistics Tracking Intelligence System**
-
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+**Data & BI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-F4E842?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-</div>
+**AI & ML**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_&_RAG-412991?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-**Business Challenge:** Supply chain inefficiencies causing delayed deliveries and increased operational costs across logistics operations.
+**Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Solution Architecture:**
-- Engineered predictive models using Python and SQL for deep data mining to identify bottlenecks
-- Built real-time tracking intelligence system with automated alert mechanisms
-- Developed route optimization algorithms to streamline logistics pipelines
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Business Impact:**
-- ✅ **Significant reduction in delivery delays** through optimized routing
-- ✅ **Improved operational efficiency** via predictive bottleneck identification
-- ✅ **Enhanced visibility** across the entire supply chain pipeline
-
-**Technical Highlights:**
-- Predictive modeling for delivery time estimation
-- SQL-based data warehousing for historical trend analysis
-- Real-time dashboard for logistics KPI monitoring
-
-📂 **[View Project](https://github.com/aml-wajeh/End-to-End-Logistics-Intelligence-System)**
----
-
-### **2. Body Performance Analytics & Intelligent Classification System**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-9CAF3E?style=flat-square)
-![Classification](https://img.shields.io/badge/Classification-4A5F2F?style=flat-square)
-
-</div>
-
-**Business Challenge:** Need for comprehensive analysis of body performance metrics to identify key health indicators and optimize fitness outcomes.
-
-**Solution Architecture:**
-- Developed advanced data models in Python for body performance analysis
-- Created interactive Tableau dashboards tracking core performance metrics over time
-- Implemented intelligent classification system for fitness level categorization
-
-**Business Impact:**
-- ✅ **Actionable insights into fitness trend correlations** for training optimization
-- ✅ **Data-driven recommendations** for performance improvement
-- ✅ **Real-time visualization** of health indicators and progress tracking
-
-**Technical Highlights:**
-- Exploratory Data Analysis (EDA) on performance metrics
-- Statistical modeling for trend identification
-- Interactive visualization with drill-down capabilities
-
-📂 **[View Project](https://github.com/aml-wajeh/Body-Performance-Analytics-and-Intelligent-Classification-System)**
----
-
-
-### **3. Adventure Works: End-to-End Business Intelligence & Predictive Analytics Suite**
-
-<div align="center">
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-9CAF3E?style=flat-square)
-
-</div>
-
-**Business Challenge:** Comprehensive business intelligence solution needed for multi-dimensional sales, inventory, and customer analytics across global operations.
-
-**Solution Architecture:**
-- Designed enterprise-grade data warehouse using SQL Server
-- Built predictive models for sales forecasting and inventory optimization
-- Created executive dashboards with drill-through capabilities for regional analysis
-
-**Business Impact:**
-- ✅ **Enhanced decision-making** through real-time KPI visibility
-- ✅ **Improved forecasting accuracy** for inventory management
-- ✅ **Identified revenue optimization opportunities** across product categories
-
-**Technical Highlights:**
-- Database modeling and ERD design
-- ETL processes for data integration
-- Advanced analytics with Python and R
-- Multi-layered Power BI dashboards
-
-📂 **[View Project](https://github.com/aml-wajeh/Adventure-Works-End-to-End-Business-Intelligence-Predictive-Analytics-Suite.git)**
----
-
-
-### **4. HR Analytics: Employee Retention & Performance Intelligence**
-
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-</div>
-
-**Business Challenge:** High employee attrition with no structured system to identify key drivers of turnover across a 500+ employee workforce.
-
-**Solution Architecture:**
-- Built end-to-end analytics pipeline using SQL for data extraction
-- Performed comprehensive EDA in Python to surface attrition hotspots
-- Developed interactive Power BI dashboards for performance patterns and department-level KPIs
-
-**Business Impact:**
-- ✅ **15% improvement in employee retention** through data-driven HR decisions
-- ✅ **40% reduction in HR reporting time** via automated dashboards
-- ✅ **Real-time performance monitoring system** for proactive intervention
-- ✅ **Predictive attrition model** for early warning detection
-
-**Technical Highlights:**
-- Predictive attrition modeling
-- Employee satisfaction tracking metrics
-- Cross-functional collaboration dashboards
-- Senior management executive reports
-
-📂 **[View Project](https://github.com/aml-wajeh/HR-Analysis)**
----
-
-
-## 🎯 **AI & Data Specialization**
-
-<div align="center">
-
-| **Applied AI** | **Predictive Analytics** | **Business Intelligence** |
-|:---|:---|:---|
-| Machine Learning pipelines | Forecasting models | Executive dashboards |
-| Deep Learning architectures | Trend analysis | KPI tracking systems |
-| Computer Vision applications | Risk modeling | Performance scorecards |
-| NLP & text analytics | Customer segmentation | Strategic reporting |
-| Neural Networks (CNN, RNN, GAN) | Demand forecasting | Data storytelling |
-
-</div>
+**Supporting: web delivery**
+![Web portals](https://img.shields.io/badge/Web_portals_for_dashboards_&_AI_tools-555555?style=flat-square)
 
 ---
 
-## 💡 **Business Impact & Value Creation**
+## Certifications & training
 
-<div align="center">
-
-### **Transforming Data into Strategic Decisions**
-
-</div>
-
-✔ **Predictive Insights**: Building ML models that forecast trends and enable proactive decision-making  
-✔ **Intelligent Automation**: Reducing manual reporting time by 20-40% through automated pipelines  
-✔ **Operational Optimization**: Identifying efficiency gains and cost reduction opportunities  
-✔ **Executive Reporting**: Creating C-suite ready dashboards that drive strategic initiatives  
-✔ **KPI Tracking**: Real-time monitoring systems for performance management  
-✔ **Business Growth Enablement**: Data-driven recommendations that increase revenue and retention  
-✔ **Data Governance**: Ensuring 100% data integrity across all analytics solutions  
-
----
-
-## 💼 **Professional Experience Snapshot**
-
-<div align="center">
-
-| **Role** | **Organization** | **Duration** | **Key Achievement** |
-|:---|:---|:---|:---|
-| **Applied AI & Data Analytics Trainee** | Digilians MCIT | Dec 2025 - Present | 1M+ daily data points processed |
-| **Freelance Data Analyst** | Global Platforms | Oct 2024 - Dec 2025 | 5+ international clients served |
-| **Business Intelligence Analyst** | National Telecommunication Institute | Nov 2024 - Feb 2025 | 35% faster reporting achieved |
-| **Data Analyst Specialist** | Digital Egypt Pioneers Initiative | Apr 2024 - Oct 2024 | 3+ ETL processes orchestrated |
-| **Company Director** | Moltaqa Al-Alam Tour Company | Jan 2017 - Aug 2023 | 6+ years operational leadership |
-
-</div>
-
----
-
-## 📜 **Certifications & Credentials**
-
-<div align="center">
-
-![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white&color=F4E842)
-![IBM](https://img.shields.io/badge/IBM_SkillsBuild-000000?style=for-the-badge&logo=ibm&logoColor=white&color=9CAF3E)
-![Huawei](https://img.shields.io/badge/AI_%26_ML_Specialist-FF0000?style=for-the-badge&logo=huawei&logoColor=white&color=4A5F2F)
-![ITIDA](https://img.shields.io/badge/Data_Analyst_Freelancer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&color=1A1A1A)
-
-</div>
-
-### **2026**
-- **Microsoft Certified: Fabric Analytics Engineer Associate** — Microsoft (Jul 2026) 
-- **Microsoft Certified: Power BI Data Analyst Associate** — Microsoft (Jul 2026) 
-- **Google Data Analytics Professional Certificate** — Google (Coursera) | (Apr 2026)
-
-### **2025**
-- **IBM SkillsBuild Certified Data Analytics** — Education for Employment (EFE-Global) | *Issued May 2025*
-- **Data Analytics and Visualization** — Sprints & National Council for Women | *Issued Jun 2025*
-- **Data Analyst Freelancer** — Information Technology Industry Development Agency (ITIDA) | *Issued Apr 2025*
-- **AI & Machine Learning Specialist** — Ministry of Youth & Sports (Shabab Mubtakir) & Huawei | *Issued Feb 2025*
-
-### **2024**
-- **Data Analytics Bootcamp (3-Month Intensive Program)** — Alexander Freberg (Alex The Analyst) | *Issued Mar 2024*
-
----
-
-
-## 🎯 **Currently Working On**
-
-<div align="center">
-
-| **Focus Area** | **Description** |
-|:---|:---|
-| 🔬 **Applied AI Research** | Advanced Deep Learning architectures (CNNs, RNNs, GANs) for real-world business applications |
-| 📊 **Big Data Analytics** | Scalable analytics pipelines processing 1M+ daily data points at Digilians |
-| 🤖 **Machine Learning Engineering** | Production-ready ML models with MLOps best practices |
-| 📈 **Predictive Intelligence** | Building forecasting systems for strategic decision support |
-| 🎓 **Technical Excellence** | Mastering precision in AI/ML delivery (24/7 operational discipline) |
-
-</div>
-
----
-
-## 🔮 **Learning & Research Interests**
-
-- **Advanced Deep Learning**: Generative AI, Transformers, and Large Language Models
-- **Computer Vision**: Object detection, image segmentation, and visual analytics
-- **MLOps & AI Engineering**: Model deployment, monitoring, and lifecycle management
-- **Big Data Technologies**: Distributed computing and real-time stream processing
-- **AI Ethics & Responsible AI**: Bias detection, fairness, and explainable AI
-- **Cloud-Native AI**: Azure ML, cloud architecture, and scalable AI solutions
-- **Business Intelligence Strategy**: Data governance, analytics maturity, and BI transformation
-
----
-
-## 🤝 **Open To Opportunities**
-
-<div align="center">
-
-### **Let's Build Something Impactful Together**
-
-</div>
-
-I'm actively seeking **opportunities** where I can leverage my unique combination of **business leadership experience** and **advanced AI/analytics expertise** to drive measurable impact.
-
-**🎯 Target Roles:**
-- Applied AI Specialist
-- Machine Learning Engineer
-- Data Scientist
-- Data Analytics Specialist
-- Business Intelligence Analyst / Consultant
-- Analytics Engineer
-- Data Strategy Consultant
-
-**💡 What I Bring:**
-- ✅ **2+ years** of professional experience with proven business impact
-- ✅ **360+ hours** of elite technical training (DEPI, NTI, Digilians)
-- ✅ **Bilingual expertise**: Business strategy + Technical execution
-- ✅ **Quantifiable results**: 15% retention improvement, 20% time savings, 35% faster reporting
-
-**🌍 Availability:**
-- ✅ **Open to relocation** for the right opportunity
-- ✅ **Remote-friendly** with flexible collaboration
-- ✅ **Immediate availability** for full-time roles
-- ✅ **Open to consulting projects** and strategic collaborations
-
----
-
-## 📬 **Let's Connect**
-
-<div align="center">
-
-### **Ready to transform your data into strategic advantage?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=F4E842)](https://www.linkedin.com/in/aml-wajeh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-F4E842?style=for-the-badge&logo=google-chrome&logoColor=1A1A1A&color=9CAF3E)](https://aml-wajeh-abuzeid.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Send_Message-9CAF3E?style=for-the-badge&logo=gmail&logoColor=1A1A1A&color=4A5F2F)](mailto:aml.wajeh24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&color=1A1A1A)](https://github.com/aml-wajeh)
-
-</div>
-
-<div align="center">
-
----
-
-### **📍 Based in Cairo, Egypt | 🌍 Available for Global Opportunities**
-
-**📧 aml.wajeh24@gmail.com** · **📱 (+20) 1115087087**
-
----
-
-<div align="center">
-
-**Built with precision, discipline, and a commitment to excellence** ⚡
-
-*Thank you for visiting my profile. Let's create data-driven impact together.*
-
-</div>
-
-</div>
-
-</div>
-<!--
-  Profile Color Theme: Non-Binary Pride Inspired
-  Colors: #F4E842 (Yellow), #9CAF3E (Olive), #4A5F2F (Dark Olive), #1A1A1A (Dark)
-  
-  Last Updated: May 2026
-  Maintained with ❤️ 
--->
+- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Google Data Analytics Professional Certificate
+- Professional Diploma in Applied AI & Data Analytics, Digilians (MCIT), dissertation graded Excellent with Honors
+- Data training: DEPI (MCIT), NTI, IBM SkillsBuild Data Analysis
