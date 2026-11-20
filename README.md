@@ -185,41 +185,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 ---
 
 
-### **3. SmartMart Executive Sales Intelligence Dashboard**
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-003B57?style=flat-square)
-![7-Day Delivery](https://img.shields.io/badge/Delivery-7_Days-F4E842?style=flat-square)
-
-</div>
-
-**Business Challenge:** Transform 10,000+ rows of raw sales data into strategic intelligence within a strict 7-day deadline while maintaining 100% data integrity.
-
-**Solution Architecture:**
-- Engineered comprehensive end-to-end sales intelligence solution in Power BI
-- Developed advanced DAX measures for MoM/YoY growth and Average Order Value (AOV)
-- Automated reporting workflows with time-series analysis by hour and weekday
-
-**Business Impact:**
-- ✅ **~20% reduction in reporting time** through automation
-- ✅ **Real-time revenue visibility** with advanced analytical metrics
-- ✅ **3 strategic business insights** and **2 actionable recommendations** delivered
-- ✅ **100% on-time delivery** within 7-day constraint
-
-**Technical Highlights:**
-- Advanced DAX calculations for growth metrics
-- Power Query for ETL automation
-- Time-series analysis for pattern identification
-- Regional performance comparison dashboards
-
-📂 **[View Project](https://github.com/aml-wajeh/SmartMart_Executive_Sales)**
----
-
-
-### **4. Adventure Works: End-to-End Business Intelligence & Predictive Analytics Suite**
+### **3. Adventure Works: End-to-End Business Intelligence & Predictive Analytics Suite**
 
 <div align="center">
 
@@ -252,7 +218,7 @@ Currently advancing my technical excellence in the **Digital Pioneers Initiative
 ---
 
 
-### **5. HR Analytics: Employee Retention & Performance Intelligence**
+### **4. HR Analytics: Employee Retention & Performance Intelligence**
 
 <div align="center">
 
